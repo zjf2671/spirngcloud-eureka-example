@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>springcloud</groupId>
-	<artifactId>springcloud-eureka-client-provider</artifactId>
+	<artifactId>springcloud-eureka-client-provider-ex</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springcloud-eureka-client-provider :: 服务提供者</name>
+	<name>springcloud-eureka-client-provider-ex :: 服务提供者</name>
 
 	<!-- Spring Boot 启动父依赖 -->
 	<parent>
