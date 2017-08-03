@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>springcloud</groupId>
-	<artifactId>springcloud-eureka-server</artifactId>
+	<artifactId>springcloud-eureka-server-ex</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>springcloud-eureka-server :: Spring Cloud Eureka 服务注册中心</name>
+	<name>springcloud-eureka-server-ex :: Spring Cloud Eureka 服务注册中心</name>
 	<description>服务注册中心</description>
 
 	<!-- Spring Boot 启动父依赖 -->
