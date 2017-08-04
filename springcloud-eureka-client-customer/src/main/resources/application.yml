@@ -9,3 +9,8 @@ eureka:
 spring:
   application:
     name: city-client # 服务名称
+
+#如何为get请求，发送参数为一个对象则需要开启下面的注解，同时要引入pom文件
+#feign:
+#  httpclient:
+#   enabled: true

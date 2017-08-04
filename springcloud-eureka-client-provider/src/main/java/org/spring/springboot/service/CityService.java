@@ -1,5 +1,7 @@
 package org.spring.springboot.service;
 
+import java.util.List;
+
 import org.spring.springboot.domain.City;
 
 /**
@@ -15,4 +17,6 @@ public interface CityService {
      * @param cityName
      */
     City findCityByName(String cityName);
+
+	List<City> findCityList(City city);
 }
