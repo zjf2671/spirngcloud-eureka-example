@@ -15,7 +15,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-//重点开启扫描fiter
+//这个就是扫描相应的Servlet包
 @ServletComponentScan
 public class FeignApplication {
 
